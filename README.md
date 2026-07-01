@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0832-flipping-an-image) |
 | [1470-shuffle-the-array](https://github.com/Ankit9767/DSA-Problems/tree/master/1470-shuffle-the-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
@@ -57,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
