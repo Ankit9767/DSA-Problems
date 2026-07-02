@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit9767/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ankit9767/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Ankit9767/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/Ankit9767/DSA-Problems/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Ankit9767/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Ankit9767/DSA-Problems/tree/master/0041-first-missing-positive) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ankit9767/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ankit9767/DSA-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
