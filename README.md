@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit9767/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Ankit9767/DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/Ankit9767/DSA-Problems/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit9767/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit9767/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ankit9767/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit9767/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankit9767/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0832-flipping-an-image) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit9767/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ankit9767/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit9767/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit9767/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit9767/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
