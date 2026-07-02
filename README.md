@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit9767/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Ankit9767/DSA-Problems/tree/master/0041-first-missing-positive) |
+| [0383-ransom-note](https://github.com/Ankit9767/DSA-Problems/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit9767/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/Ankit9767/DSA-Problems/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ankit9767/DSA-Problems/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Ankit9767/DSA-Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
