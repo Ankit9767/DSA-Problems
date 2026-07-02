@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Ankit9767/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit9767/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ankit9767/DSA-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ankit9767/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit9767/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit9767/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit9767/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
