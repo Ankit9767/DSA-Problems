@@ -13,7 +13,6 @@ class Solution {
             ans[i] = ans[i] * suffix ;
             suffix = suffix * nums[i] ;
         }
-
         return ans ; 
     }
 }
