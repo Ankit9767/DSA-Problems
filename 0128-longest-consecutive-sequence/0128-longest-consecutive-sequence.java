@@ -13,7 +13,7 @@ class Solution {
                     curr++ ;
                     len++ ;
                 }
-                max = Math.max(max , len) ;
+              max = Math.max(max , len) ;
             }
         }
         return max ;
