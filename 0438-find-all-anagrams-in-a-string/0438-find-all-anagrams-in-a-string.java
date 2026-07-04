@@ -33,7 +33,6 @@ class Solution {
                 res.add(r - k + 1);
             }
         }
-
         return res;
     }
 }
