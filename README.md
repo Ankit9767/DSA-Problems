@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Ankit9767/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ankit9767/DSA-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ankit9767/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Ankit9767/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ankit9767/DSA-Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit9767/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Ankit9767/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Ankit9767/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Ankit9767/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Ankit9767/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ankit9767/DSA-Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit9767/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Ankit9767/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ankit9767/DSA-Problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Ankit9767/DSA-Problems/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
