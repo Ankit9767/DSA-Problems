@@ -9,7 +9,11 @@ public int countSubstrings(String s) {
 }
 int expand(String s, int l, int r) {
     int c = 0;
-    while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) { c++; l--; r++; }
+    while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+        c++; 
+        l--;
+        r++;
+        }
     return c;
 }
 }
