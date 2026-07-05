@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit9767/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Ankit9767/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankit9767/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Ankit9767/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankit9767/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit9767/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/Ankit9767/DSA-Problems/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
