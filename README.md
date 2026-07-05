@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit9767/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0567-permutation-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Ankit9767/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit9767/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0567-permutation-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Ankit9767/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Ankit9767/DSA-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Ankit9767/DSA-Problems/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Ankit9767/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## Union-Find
 |  |
 | ------- |
