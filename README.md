@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Ankit9767/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit9767/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankit9767/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Ankit9767/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0832-flipping-an-image) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit9767/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/Ankit9767/DSA-Problems/tree/master/1470-shuffle-the-array) |
@@ -148,10 +149,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Ankit9767/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit9767/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Ankit9767/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Ankit9767/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
