@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Ankit9767/DSA-Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit9767/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Ankit9767/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit9767/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankit9767/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ankit9767/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/Ankit9767/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit9767/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankit9767/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Ankit9767/DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -150,11 +152,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit9767/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Ankit9767/DSA-Problems/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Ankit9767/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankit9767/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Ankit9767/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankit9767/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
