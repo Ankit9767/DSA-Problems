@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Ankit9767/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ankit9767/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit9767/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Ankit9767/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ankit9767/DSA-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ankit9767/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankit9767/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Ankit9767/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankit9767/DSA-Problems/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Ankit9767/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit9767/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0344-reverse-string) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Ankit9767/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
