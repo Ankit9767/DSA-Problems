@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Ankit9767/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ankit9767/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ankit9767/DSA-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ankit9767/DSA-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ankit9767/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankit9767/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankit9767/DSA-Problems/tree/master/0268-missing-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Ankit9767/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit9767/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ankit9767/DSA-Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ankit9767/DSA-Problems/tree/master/0647-palindromic-substrings) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Ankit9767/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit9767/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ankit9767/DSA-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ankit9767/DSA-Problems/tree/master/0268-missing-number) |
 ## Trie
 |  |
