@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit9767/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ankit9767/DSA-Problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ankit9767/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ankit9767/DSA-Problems/tree/master/0647-palindromic-substrings) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit9767/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Ankit9767/DSA-Problems/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ankit9767/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankit9767/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -232,9 +234,11 @@ A collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Ankit9767/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
