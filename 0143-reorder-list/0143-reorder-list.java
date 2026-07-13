@@ -23,7 +23,6 @@ class Solution {
 
         ListNode second = reverse(slow.next);
         slow.next = null;
-
         ListNode first = head;
 
         while (second != null) {
