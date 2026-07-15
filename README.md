@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit9767/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ankit9767/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit9767/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ankit9767/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Ankit9767/DSA-Problems/tree/master/1672-richest-customer-wealth) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit9767/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ankit9767/DSA-Problems/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
