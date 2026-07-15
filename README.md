@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Ankit9767/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ankit9767/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ankit9767/DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Ankit9767/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ankit9767/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankit9767/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Ankit9767/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ankit9767/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ankit9767/DSA-Problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ankit9767/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit9767/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0832-flipping-an-image) |
@@ -256,9 +259,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
