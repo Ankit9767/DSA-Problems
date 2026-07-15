@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Ankit9767/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Ankit9767/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ankit9767/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Ankit9767/DSA-Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Ankit9767/DSA-Problems/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
