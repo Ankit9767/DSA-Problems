@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Ankit9767/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ankit9767/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ankit9767/DSA-Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Ankit9767/DSA-Problems/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
