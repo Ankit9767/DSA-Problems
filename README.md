@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Ankit9767/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Ankit9767/DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ankit9767/DSA-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Ankit9767/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Ankit9767/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit9767/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ankit9767/DSA-Problems/tree/master/0141-linked-list-cycle) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Ankit9767/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Ankit9767/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ankit9767/DSA-Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Ankit9767/DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ankit9767/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Ankit9767/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ankit9767/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ankit9767/DSA-Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ankit9767/DSA-Problems/tree/master/0200-number-of-islands) |
